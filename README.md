@@ -7,9 +7,8 @@ This project implements a book recommendation system using collaborative filteri
 ## Features
 
 - User-based Collaborative Filtering
-- Item-based Collaborative Filtering
 - Recommendation Generation
-- Evaluation Metrics
+
 
 ## Getting Started
 
